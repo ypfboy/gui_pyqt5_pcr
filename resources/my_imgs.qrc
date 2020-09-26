@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>imgs/63-dev.png</file>
+    <file>imgs/60_fenxi.png</file>
+    <file>imgs/61_LISHI.png</file>
+    <file>imgs/01_small.png</file>
+    <file>imgs/02_big.png</file>
+    <file>imgs/03_close.png</file>
+    <file>imgs/04_01bg.png</file>
+    <file>imgs/05_02bg.png</file>
+    <file>imgs/06_03bg.png</file>
+    <file>imgs/07_04bg.png</file>
+    <file>imgs/08_xuxian.png</file>
+    <file>imgs/09_icon_shuru.png</file>
+    <file>imgs/10_icon_shuru2.png</file>
+    <file>imgs/11_icon_shengcheng.png</file>
+    <file>imgs/12_icon_shengcheng2.png</file>
+    <file>imgs/13_icon_shangchuan.png</file>
+    <file>imgs/14_icon_shangchuan2.png</file>
+    <file>imgs/15_icon_canshu.png</file>
+    <file>imgs/16_icon_canshu2.png</file>
+    <file>imgs/16_icon_jishu.png</file>
+    <file>imgs/17_selected.png</file>
+    <file>imgs/18_gene1.png</file>
+    <file>imgs/19_gene2.png</file>
+    <file>imgs/20_bg-02.png</file>
+    <file>imgs/PCR 0729.png</file>
+  </qresource>
+</RCC>

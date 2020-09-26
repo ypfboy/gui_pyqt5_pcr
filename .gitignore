@@ -1,0 +1,9 @@
+venv/
+.venv/
+画动态图示例1.py
+bak/
+matp_use.py
+demo*
+*.pyc
+.idea/
+xlsx/
